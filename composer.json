@@ -1,5 +1,5 @@
 {
-  "name": "c4studio/emailcssinliner",
+  "name": "c4studio/email-css-inliner",
   "description": "Automatically converts CSS in emails to inline styles",
   "authors": [
   {

@@ -21,5 +21,5 @@ Add following lines to ```app/config/app.php```
 ServiceProvider array
 
 ```php
-C4studio\Loggr\EmailCssInlinerServiceProvider::class,
+C4studio\EmailCssInliner\EmailCssInlinerServiceProvider::class,
 ```
